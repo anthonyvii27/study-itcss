@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.anthonyv@gmail.com-8400a6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.anthonyv@gmail.com)](mailto:dev.anthonyv@gmail.com)
 
 Esse repositório se refere a estudos realizados da arquitetura ITCSS (Inverted Triangle CSS).
+Foram utilizados HTML e Sass para sua implementação.
 
 ### ITCSS 
 ![Inverted Triangle CSS](https://miro.medium.com/max/3796/1*pu3XW_IEV7MbkhsH5KypdA.png)

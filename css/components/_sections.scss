@@ -1,0 +1,23 @@
+.wrapper {
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px 15px;
+}
+
+.w-bordered-area {
+    width: 100%;
+    border-radius: $base-border-radius;
+    border: 2px solid $color1;
+    padding: $base-inside-spacing;
+}
+
+.w-section {
+    margin-bottom: 20px;
+}
+
+.w-article {
+    h1 {
+        padding-bottom: $base-bottom-spacing;
+    }
+}

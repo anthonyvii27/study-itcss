@@ -1,0 +1,8 @@
+a {
+    text-decoration: none;
+    color: $color4;
+
+    &:hover, &:focus {
+        color: $color5;
+    }
+}

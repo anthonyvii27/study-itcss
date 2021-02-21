@@ -1,0 +1,16 @@
+.primary-button {
+    background: $color4;
+    padding: 6px 30px;
+    color: $color2;
+    border-radius: $base-border-radius;
+
+    &:hover {
+        background: $color5;
+        transition: $base-transition;
+    }
+
+    &:focus {
+        background: $color6;
+        transition: $base-transition;
+    }
+}
